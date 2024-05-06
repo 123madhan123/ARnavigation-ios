@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "648C1F87-BA3E-4664-B2FD-00A63B385BDE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAEA6B80-5EAE-4C08-856E-0C3577914AFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AR Main Navigation/ViewController/FinalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAEA6B80-5EAE-4C08-856E-0C3577914AFF - efe60f599c04e682"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Main_Navigation.FinalViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AR Main Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasanth/Downloads/AR%20Main%20Navigation/AR%20Main%20Navigation/ViewController/FinalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "BAEA6B80-5EAE-4C08-856E-0C3577914AFF - efe60f599c04e43f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Main_Navigation.FinalViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AR Main Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasanth/Downloads/AR%20Main%20Navigation/AR%20Main%20Navigation/ViewController/FinalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "BAEA6B80-5EAE-4C08-856E-0C3577914AFF - efe60f599c04e43f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Main_Navigation.FinalViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AR Main Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/prasanth/Downloads/AR%20Main%20Navigation/AR%20Main%20Navigation/ViewController/FinalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

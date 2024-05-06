@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_AR_Main_Navigation_AR_Main_NavigationUITests : NSObject
+@end
+@implementation PodsDummy_Pods_AR_Main_Navigation_AR_Main_NavigationUITests
+@end

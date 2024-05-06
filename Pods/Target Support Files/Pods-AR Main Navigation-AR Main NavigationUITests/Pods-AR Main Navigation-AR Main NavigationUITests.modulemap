@@ -1,0 +1,6 @@
+framework module Pods_AR_Main_Navigation_AR_Main_NavigationUITests {
+  umbrella header "Pods-AR Main Navigation-AR Main NavigationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

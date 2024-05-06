@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DB112450-EF99-45ED-8362-3F10EEDFF079"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27DC0052-839A-4A4F-BF30-1EFC98731296"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AR Main Navigation/ViewController/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "setupNavigation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A29F9EF-C652-4851-8F76-FE7BF2903897"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AR Main Navigation/ViewController/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A29F9EF-C652-4851-8F76-FE7BF2903897 - 9ce4b2f81e42a2da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AR_Main_Navigation.HomeVC.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "AR Main Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elisharaj/Downloads/AR%20Main%20Navigation/AR%20Main%20Navigation/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "9A29F9EF-C652-4851-8F76-FE7BF2903897 - 9ce4b2f81e42a2fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AR_Main_Navigation.HomeVC.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "AR Main Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elisharaj/Downloads/AR%20Main%20Navigation/AR%20Main%20Navigation/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "9A29F9EF-C652-4851-8F76-FE7BF2903897 - f09f82e633376565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AR_Main_Navigation.HomeVC.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "AR Main Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elisharaj/Downloads/AR%20Main%20Navigation%203/AR%20Main%20Navigation/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "318">
+               </Location>
+               <Location
+                  uuid = "9A29F9EF-C652-4851-8F76-FE7BF2903897 - f09f82e633376565"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CLLocationCoordinate2D&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AR_Main_Navigation.HomeVC.searchBar(_: __C.UISearchBar, textDidChange: Swift.String) -&gt; ()"
+                  moduleName = "AR Main Navigation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elisharaj/Downloads/AR%20Main%20Navigation%203/AR%20Main%20Navigation/ViewController/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "603C2DF3-45DD-42EA-AC9C-2E359A756083"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AR Main Navigation/ViewController/AboutVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
